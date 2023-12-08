@@ -22,7 +22,6 @@ This project aims to simulate a banking system in PostgreSQL that enables client
 ## Database Modelization
 
 - The `model.sql` file contains the SQL scripts for creating the database schema, including tables for clients, wallets, options, stocks, and historical stock price data.
-- The `ERD.png` file provides an Entity-Relationship Diagram illustrating the database structure.
 
 ## Monte Carlo Simulation
 
