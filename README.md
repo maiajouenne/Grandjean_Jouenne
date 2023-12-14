@@ -22,6 +22,7 @@ This project aims to simulate a banking system in PostgreSQL that enables client
 ## Database Modelization
 
 - The `model.sql` file contains the SQL scripts for creating the database schema, including tables for clients, wallets, options, stocks, and historical stock price data.
+![image](https://github.com/maiajouenne/Grandjean_Jouenne/assets/125506491/1c2feae3-3cd9-49a5-9348-b14ec148999e)
 
 ## Monte Carlo Simulation
 
