@@ -57,7 +57,7 @@ During the development of this project, several challenges were encountered:
 
 1. **Complex Financial Models:** Implementing the accurate financial models (Monte Carlo simulations and Black-Scholes computations).
 
-2. **Integration of Decision-Making Logic:** Developing a decision-making process involved considering numerous factors, including market volatility, risk tolerance, and client portfolio management, which was very complex to the project. (Exercise 6)
+2. **Integration of Decision-Making Logic:** Developing a decision-making process involved considering numerous factors, including market volatility, risk tolerance, and client portfolio management, which was very complex to do in exercise 6. We tried to do it but it still didn't work after a lot of testing. 
 
 3. **Triggers and Transactions:** Ensuring the correct functioning of triggers and updating stored procedures while maintaining data integrity posed few issues in handling transactions.
 
