@@ -55,9 +55,9 @@ This project aims to simulate a banking system in PostgreSQL that enables client
 
 During the development of this project, several challenges were encountered:
 
-1. **Complex Financial Models:** Implementing accurate financial models, such as Monte Carlo simulations and Black-Scholes computations, required a deep understanding of financial mathematics.
+1. **Complex Financial Models:** Implementing the accurate financial models (Monte Carlo simulations and Black-Scholes computations).
 
-2. **Integration of Decision-Making Logic:** Developing a robust decision-making process involved considering numerous factors, including market volatility, risk tolerance, and client portfolio management, which added complexity to the project.
+2. **Integration of Decision-Making Logic:** Developing a decision-making process involved considering numerous factors, including market volatility, risk tolerance, and client portfolio management, which was very complex to the project. (Exercise 6)
 
-3. **Triggers and Transactions:** Ensuring the correct functioning of triggers and updating stored procedures while maintaining data integrity posed challenges in handling transactions.
+3. **Triggers and Transactions:** Ensuring the correct functioning of triggers and updating stored procedures while maintaining data integrity posed few issues in handling transactions.
 
